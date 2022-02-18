@@ -1,4 +1,4 @@
-# ElisonSchreiter.github.io
+# Leu-QRcode
 Esse repositório foi criado como finalidade de apresentação do desafio de criação para o site Frontend Mentor.
 
 Foi um desafio interessante criar este projeto, utilizei de algumas formas para fazer o layout e cheguei a uma conclusão de qual usar. 
